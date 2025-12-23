@@ -1,0 +1,14 @@
+# React junk
+node_modules/
+dist/
+build/
+.DS_Store
+
+# Python junk
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
